@@ -1,5 +1,10 @@
 # Deep-Chrome-Dino
-Simple implementation of a Deep Q Neural Network made in Pytorch.
+Simple implementation of a Deep Q Neural Network made in Pytorch that learns how to play the Google Chrome dinosaur running game.
+
+For this project I took inspiration from [Python + PyTorch + Pygame Reinforcement Learning – Train an AI to Play Snake](https://www.youtube.com/watch?v=L8ypSXwyBds)
+ 
+And for the game I started from [chrome-dinosaur](https://github.com/maxontech/chrome-dinosaur) , making it object oriented and than adapting the agent to play it.
+
 ## Structure
 
 
@@ -10,4 +15,3 @@ Simple implementation of a Deep Q Neural Network made in Pytorch.
 ![ezgif-5-733d76fa3e](https://github.com/AleCava01/Deep-Chrome-Dino/assets/52034469/df225090-fb5a-4889-ad27-497d1d610255)
 <img align="left" height="280" src="https://github.com/AleCava01/Deep-Chrome-Dino/assets/52034469/3370f718-41a5-4bdb-a8d0-d9411f21e905">
 
-Deep Q Learning on Chrome Dinosaur Runner
